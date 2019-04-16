@@ -1,1 +1,1 @@
-# brian-kidd-react-gallery-app
+# brian-kidd-react-app
